@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @oseogbe, you're friendly-neighbourhood full-stack web and dev-ops engineer.
-- 👀 I’m interested in remote jobs that require PHP/Laravel, Node.js/Express.js, Java/Spring Boot and/or VueJS/NuxtJS technologies.
+- 👋 Hi there, I’m a full-stack developer (strong back-end) with 3-years of industry experience building performant web apps.
+- 👀 My stack includes core PHP, Laravel, Node.js, Express.js, core Java, VueJS and NuxtJS.
 - 🌱 I’m currently training to become an AWS Certified Solutions Architect Associate.
-- 💞️ I’m looking to collaborate on blockchain technology and similar financial-related projects.
+- 💞️ I’m looking to work with start-ups building projects across any of the aforementioned technologies.
 - 📫 You can reach me via my email at osememen.ogbe@gmail.com.
 
 <!---
