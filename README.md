@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m a full-stack developer (strong back-end) with 4-years of industry experience building performant web apps.
-- 👀 My stack includes core PHP, Laravel, Node.js, Express.js, VueJS and NuxtJS.
-- 🌱 I’m currently training to become an AWS Certified Solutions Architect Associate.
-- 💞️ I’m looking to work with start-ups building projects across any of the aforementioned technologies.
+- 👋 Hi there, I’m a full-stack developer with 3-years working experience building performant web apps.
+- 👀 My stack includes PHP, Laravel, Go, Node, Express, Vue, React and Next.
+- 🌱 You can take a look at some of my projects at https://memencodes.netlify.app
+- 💞️ I’m looking to work with both start-ups and industry giants building projects across any of the aforementioned technologies.
 - 📫 You can reach me via my email at osememen.ogbe@gmail.com.
 
 <!---
